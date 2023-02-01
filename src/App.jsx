@@ -34,7 +34,7 @@ function App() {
 
   const boxStyles = {
     background: "#fdfdfd",
-    marginTop: "10rem",
+    marginTop: "10%",
     textAlign: "center",
     color: "#222",
     minHeight: "20rem",
